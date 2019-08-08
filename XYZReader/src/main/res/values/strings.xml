@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">XYZ Reader</string>
+    <string name="welcome_xyz_reader">Welcome to XYZ Reader!</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+
+    <string name="up">Up</string>
+
+    <!-- Fragment Detail -->
+    <string name="share_text_type">text/plain</string>
+    <string name="share_sample_text">Some sample text</string>
+    <string name="not_applicable">N/A</string>
+
+</resources>
